@@ -12,4 +12,4 @@
 
 # Feito por
 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/147529783?v=4" width=115><br><sub>Mylena Ribeiro</sub>](https://github.com/MilyRibeiro) |
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/253324134?v=4" width=115><br><sub>Mylena Marques Ribeiro</sub>](https://github.com/MilyMarques) |
