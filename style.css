@@ -4,6 +4,13 @@ body {
   position: relative;
 }
 
+.amigo-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  margin-right: 12px;
+}
+
 .background__detail {
   background-color: #00f4bf;
   height: calc(100% - 389px);
@@ -12,6 +19,13 @@ body {
   right: 0;
   top: 195px;
   z-index: 0;
+}
+
+.botao-excluir {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 14px;
 }
 
 .button {
