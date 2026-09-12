@@ -21,7 +21,7 @@
 - Eventos
 - DOM
 
-[<img loading="lazy" src="Captura_de_tela_app.png"><br><sub>Print da aplicação funcionando</sub>]
+<img loading="lazy" src="Captura_de_tela_app.png"><br><sub>Print da aplicação funcionando</sub>
 
 # Feito por
 
